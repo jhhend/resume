@@ -72,7 +72,7 @@ const resume = {
             items : [
                 'Collaborated to develop an employee management system which allows managers to schedule employees for shifts and view metrics relating to their overall productivity',
                 'Led front facing UI design as well as backend logic implementation and database design',
-                'Utilized the Qt C++ framework'
+                'Successfully implemented custom built UI modules utilizing the Qt framework'
             ]
         },
         {
@@ -85,7 +85,7 @@ const resume = {
                 'Collaborated to develop a neural network to determine the severity of pneumonia in lung scans of COVID-19 positive patients',
                 'Led and developed a robust preprocessing pipeline to address dataset imbalance',
                 'Utilized transfer learning via Inception v3 with aided hyperparameter tuning via Keras',
-                'Final model reached 96% accuracy'
+                'Final model achieved 96% accuracy'
             ]            
         },
         {
@@ -97,8 +97,8 @@ const resume = {
             items : [
                 'Successful implementation of a full-stack application utilizing Spotify’s API to provide robust data visualizations regarding user’s playlists',
                 'Utilized Spotify’s API in conjunction with a purpose built database to pull song/playlist data for a given user',
-                'Wrote and executed a variety of SQL queries',
-                'Displayed relevant data visualizations via D3.js'
+                'Wrote and executed a variety of efficient SQL queries to retrieve user data',
+                'Displayed relevant, clear, and digestible data visualizations via D3.js'
             ]            
         },
         {
@@ -124,7 +124,8 @@ const resume = {
                 'React',
                 'Python',
                 'MySQL/MariaDB',
-                'Git/Source Control'
+                'Git/Source Control',
+                'Strong understanding of data structures and algorithms'
             ]
         },
         {
